@@ -3,7 +3,7 @@ package com.app.weexapp.app;
 import android.app.Application;
 import android.util.Log;
 
-import com.app.weexapp.util.ImageAdapter;
+import com.app.weexapp.utils.ImageAdapter;
 import com.taobao.weex.InitConfig;
 import com.taobao.weex.WXSDKEngine;
 
